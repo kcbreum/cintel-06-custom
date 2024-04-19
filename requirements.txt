@@ -1,1 +1,9 @@
-
+plotly
+shiny.express
+shinywidgets
+palmerpenguins
+shiny
+seaborn
+pandas
+faicons
+shinyswatch
